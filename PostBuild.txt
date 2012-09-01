@@ -1,0 +1,3 @@
+rmdir "$(SolutionDir)SpeakEasy\$(OutDir)\plugins\$(ProjectName)"
+mkdir "$(SolutionDir)SpeakEasy\$(OutDir)\plugins\$(ProjectName)"
+copy "$(ProjectDir)$(OutDir)$(TargetFileName)" "$(SolutionDir)SpeakEasy\$(OutDir)\plugins\$(ProjectName)\$(TargetFileName)"
