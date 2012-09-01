@@ -11,3 +11,5 @@ The liscense I choose will most like be along the lines of free to use as long a
 otherwise just contact me to work something out.
 
 This will be more clear once I officially add proper licensing.
+
+And as always, please reference my work if you use it.
